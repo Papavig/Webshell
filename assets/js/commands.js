@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/papavig/";
 var instagram = "https://www.instagram.com/beingvig/";
 var github = "https://github.com/Papavig";
-var email = 'mailto:being@gmail.com';
+var email = 'mailto:beingvig@gmail.com';
 
 whois = [
   "<br>",
