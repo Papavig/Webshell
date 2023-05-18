@@ -43,7 +43,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">WebShell is Not A Corporation. All knights reserved.</span>',
+  '<span class="index">WebShell is Not A Corporation. All rights reserved.</span>',
   "_       __     __   _____ __         ____",
   "| |     / /__  / /_ / ___// /_  ___  / / /",
   "| | /| / / _ \/ __ \\__ \/ __ \/ _ \/ / / ",
